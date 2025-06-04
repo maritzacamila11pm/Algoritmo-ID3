@@ -1,0 +1,15 @@
+Clima,Temperatura,Humedad,Viento,Jugar
+Soleado,Caliente,Alta,Débil,No
+Soleado,Caliente,Alta,Fuerte,No
+Nublado,Caliente,Alta,Débil,Sí
+Lluvioso,Templado,Alta,Débil,Sí
+Lluvioso,Frío,Normal,Débil,Sí
+Lluvioso,Frío,Normal,Fuerte,No
+Nublado,Frío,Normal,Fuerte,Sí
+Soleado,Templado,Alta,Débil,No
+Soleado,Frío,Normal,Débil,Sí
+Lluvioso,Templado,Normal,Débil,Sí
+Soleado,Templado,Normal,Fuerte,Sí
+Nublado,Templado,Alta,Fuerte,Sí
+Nublado,Caliente,Normal,Débil,Sí
+Lluvioso,Templado,Alta,Fuerte,No
