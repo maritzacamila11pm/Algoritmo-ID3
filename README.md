@@ -25,6 +25,15 @@ Este proyecto implementa el algoritmo ID3 para la construcción de árboles de d
 ## Abre el proyecto en tu IDE favorito (NetBeans, IntelliJ IDEA, Eclipse).
 
 Ejecuta la clase Main.java para iniciar la aplicación.
+## Resultados de la Ejecución
+
+A continuación se muestran capturas del programa en funcionamiento:
+
+### ✅ Ejecución Inicial 
+
+### 🌳 Visualización del Arbol
+
+### 💻 Visualización de los Datos
 
 ## Autor
 Maritza Camila Pongo Mamani
