@@ -30,10 +30,13 @@ Ejecuta la clase Main.java para iniciar la aplicación.
 A continuación se muestran capturas del programa en funcionamiento:
 
 ### ✅ Ejecución Inicial 
+![image](https://github.com/user-attachments/assets/f19d6a1d-a9ee-4e24-a7c2-c7139e66844c)
 
 ### 🌳 Visualización del Arbol
+![image](https://github.com/user-attachments/assets/1066cb10-97f9-4f25-bcf2-e885fb3045b7)
 
 ### 💻 Visualización de los Datos
+![image](https://github.com/user-attachments/assets/97f5d746-cb20-4892-ac32-51e07b207955)
 
 ## Autor
 Maritza Camila Pongo Mamani
