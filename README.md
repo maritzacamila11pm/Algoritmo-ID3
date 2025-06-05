@@ -20,7 +20,7 @@ Este proyecto implementa el algoritmo ID3 para la construcción de árboles de d
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/maritzacamila11pm/Algoritmo-ID3.git
    
 ## Abre el proyecto en tu IDE favorito (NetBeans, IntelliJ IDEA, Eclipse).
 
